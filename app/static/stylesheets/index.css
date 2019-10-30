@@ -1,0 +1,12 @@
+.star {
+  color: orange;
+}
+
+.card  {
+  padding: 0;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}

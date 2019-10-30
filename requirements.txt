@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_login
+numpy
+pandas
+whoosh
+werkzeug
+sqlalchemy
