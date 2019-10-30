@@ -17,7 +17,7 @@ To download and use data, you agree to the [Yelp Dataset Terms of Use](./yelp-da
 ## Preprocess
 You must download my dataset first. Under yelp_recommendation_system directory, run command line:
 ```bash
-> sh preprocesse.sh
+> sh preprocess.sh
 ```
 
 ## Usage
