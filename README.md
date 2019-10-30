@@ -10,7 +10,7 @@ The project requires Python 3.7.
 The original dataset is from [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset). I choose some parts of data in the Las Vegas.
 You should download my dataset [here](https://drive.google.com/drive/folders/1fK7sBOSdXSAXyWRCpCpLfP12G56Qg0-z?usp=sharing). It contains three json files. 
 Then put all the file under yelp_recommendation_system/app/res. 
-To download and use data, you you agree to the [Yelp Dataset Terms of Use](./yelp-dataset-agreement.pdf).
+To download and use data, you agree to the [Yelp Dataset Terms of Use](./yelp-dataset-agreement.pdf).
 
 
 
