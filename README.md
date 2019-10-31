@@ -1,6 +1,6 @@
 # Yelp Recommendation System
 
-The full stack recommendation system uses flask, HTML, CSS, JavaScript and Bootstrap4. 
+The full stack recommendation system uses flask, HTML, CSS, JavaScript and Bootstrap 4. 
 The recommendation system is based on collaborative filtering algorithms. 
 When searching the contents, system uses the Okapi BM25F ranking function from Whoosh library.
 The project requires Python 3.7.
