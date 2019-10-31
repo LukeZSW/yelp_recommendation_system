@@ -9,7 +9,7 @@ The project requires Python 3.7.
 ## Data
 The original dataset is from [Yelp Dataset](https://www.kaggle.com/yelp-dataset/yelp-dataset). I choose some parts of data in the Las Vegas.
 You should download my dataset [here](https://drive.google.com/drive/folders/1fK7sBOSdXSAXyWRCpCpLfP12G56Qg0-z?usp=sharing). It contains three json files. 
-Then put all the file under yelp_recommendation_system/app/res. 
+Then put all files under yelp_recommendation_system/app/res. 
 To download and use data, you agree to the [Yelp Dataset Terms of Use](./yelp-dataset-agreement.pdf).
 
 
@@ -32,7 +32,7 @@ Open http://127.0.0.1:5000 on browser.
 
 In the sqlite database, I already saved 6722 users. The usernames and passwords are same from 0 to 6721. 
 After you login in, collaborative filtering will be used when you search restaurants. 
-Although you can create new users,  collaborative filtering will not be used for new users. 
+Although you can create new users, collaborative filtering will not be used for new users. 
 After searching, you will get at most 12 top restaurants which are most relative with your query words.
  If you want to show the google map in the website, you need to change [[YOUR_API_KEY]](./app/templates/index.html#L73) in the code.
  
